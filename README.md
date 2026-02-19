@@ -25,7 +25,7 @@ pip install fast-text-analyzer
 
 ---
 
-## ⚡ CLI Usage
+## CLI Usage
 
 ### Analyze Direct Text
 
