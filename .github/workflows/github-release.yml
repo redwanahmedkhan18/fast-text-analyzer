@@ -1,0 +1,26 @@
+name: GitHub Release
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Release ${{ github.ref_name }}
+          body: |
+            🚀 fast-text-analyzer ${{ github.ref_name }}
+
+            - NLP summarization
+            - Keyword extraction
+            - CLI support
+            - File + URL analysis
+            - Readability scoring

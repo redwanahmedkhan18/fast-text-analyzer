@@ -1,3 +1,5 @@
+![CI](https://github.com/redwanahmedkhan18/fast-text-analyzer/actions/workflows/tests.yml/badge.svg)
+![Release](https://github.com/redwanahmedkhan18/fast-text-analyzer/actions/workflows/release.yml/badge.svg)
 
 # Fast Text Analyzer
 
