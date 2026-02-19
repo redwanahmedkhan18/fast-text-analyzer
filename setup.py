@@ -4,7 +4,7 @@ setup(
     name="fast-text-analyzer",
     version="0.1.0",
     description="Professional Python text analysis tool",
-    author="Redwan Ahmed",
+    author="Redwan Ahmed Khan",
     packages=find_packages(),
     install_requires=[
         "nltk",
