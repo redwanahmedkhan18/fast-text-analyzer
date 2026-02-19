@@ -1,0 +1,21 @@
+certifi==2026.1.4
+charset-normalizer==3.4.4
+click==8.3.1
+-e git+https://github.com/redwanahmedkhan18/fast-text-analyzer.git@78757fecde9e541797a0a778098cddeed8243540#egg=fast_text_analyzer
+idna==3.11
+iniconfig==2.3.0
+joblib==1.5.3
+langdetect==1.0.9
+markdown-it-py==4.0.0
+mdurl==0.1.2
+nltk==3.9.2
+packaging==26.0
+pluggy==1.6.0
+Pygments==2.19.2
+pytest==9.0.2
+regex==2026.1.15
+requests==2.32.5
+rich==14.3.2
+six==1.17.0
+tqdm==4.67.3
+urllib3==2.6.3
