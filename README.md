@@ -1,4 +1,4 @@
-````markdown
+
 # Fast Text Analyzer
 
 A lightweight, fast, and production-ready **Python text analysis toolkit** with CLI support.
