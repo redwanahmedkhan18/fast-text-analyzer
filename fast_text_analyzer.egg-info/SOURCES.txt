@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+fast_text_analyzer/__init__.py
+fast_text_analyzer/analyzer.py
+fast_text_analyzer/cli.py
+fast_text_analyzer.egg-info/PKG-INFO
+fast_text_analyzer.egg-info/SOURCES.txt
+fast_text_analyzer.egg-info/dependency_links.txt
+fast_text_analyzer.egg-info/entry_points.txt
+fast_text_analyzer.egg-info/requires.txt
+fast_text_analyzer.egg-info/top_level.txt
+tests/test_analyzer.py

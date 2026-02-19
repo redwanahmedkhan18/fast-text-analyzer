@@ -1,0 +1,6 @@
+#!/home/admin1/fast_text_analyzer/venv/bin/python
+import sys
+from fast_text_analyzer.cli import cli
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(cli())

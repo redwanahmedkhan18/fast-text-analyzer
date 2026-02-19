@@ -1,0 +1,2 @@
+[console_scripts]
+fast-text-analyzer = fast_text_analyzer.cli:cli
